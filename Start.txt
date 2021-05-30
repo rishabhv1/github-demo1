@@ -2,6 +2,7 @@ this is my first file.
 this is the second commit i am doing.
 this is third line i am adding.
 Adding text through branch
+Adding text hrough branch2
 
 
 efdit knkndsnfkndfn
